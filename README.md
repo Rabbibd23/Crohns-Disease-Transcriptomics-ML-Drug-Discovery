@@ -23,7 +23,6 @@ The GEO datasets used for the primary transcriptomic analysis are:
 Additional independent GEO datasets were used for external expression validation, as described in the manuscript.
 
 ## Citation Notice
-
 If you use the source code, scripts, computational workflows, datasets, or other materials provided in this repository in your research, please cite the associated publication(s).
 
 **Citation details will be updated after publication.**
